@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Diogo Filipe</h1>
+- 🏫 Masters student of **Informatics Engineering at University of Coimbra**
+
+- 🎓 Graduated in **Informatics Engineering in 2021**
+
 - 📫 How to reach me **diogojordao.2504@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
